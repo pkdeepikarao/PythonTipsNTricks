@@ -1,5 +1,5 @@
 # Useful Python Commands
-Will fill this soon 
+Functions that are generally used 
 
-## Subheader
-Try again ahhhsssdfasdfsa
+## String Related
+1. Slice
